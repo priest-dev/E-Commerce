@@ -106,5 +106,5 @@ Este proyecto es la entrega final del curso de Coderhouse, donde se ha desarroll
    ```
 
 ---
-## Trabajo hecho y realizado por Leonardo Felipe Stefaniszen Maiczuk.
+# Trabajo hecho y realizado por Leonardo Felipe Stefaniszen Maiczuk.
 
